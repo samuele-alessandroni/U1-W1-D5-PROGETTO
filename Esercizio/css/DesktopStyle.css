@@ -117,6 +117,10 @@ main article #card img{
     width: 100%;
 }
 
+main article #card div p{
+    padding-bottom: 2em;
+}
+
 /*FOOTER*/
 
 footer{
